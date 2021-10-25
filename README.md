@@ -32,7 +32,7 @@
 
 <a href="https://www.hackerrank.com/madCoder51"><img align="left" alt="HackerRank" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/240px-HackerRank_Icon-1000px.png" /></a>
 <a href="https://www.codechef.com/users/madcoder51"><img align="left" alt="Codechef" width="26px" src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" /></a>
-<a href="https://codeforces.com/profile/zahidhasanmozumder"><img align="left" alt="Codechef" width="26px" src="https://codeforces.org/s/97514/images/codeforces-telegram-square.png" /></a>
+<a href="https://codeforces.com/profile/zahidhasanmozumder"><img align="left" alt="Codechef" width="26px" src="https://play-lh.googleusercontent.com/zaldniLc2XTBhNlCDR4hcD5bcRYHZ56_lO0yA2Qu-cADShy1_HDWrICSvv0EPTX79WY=rw" /></a>
 
 <br />
 
