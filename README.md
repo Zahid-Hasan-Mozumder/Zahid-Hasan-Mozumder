@@ -7,9 +7,9 @@
 
 ### Connect with me:
 
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook](https://web.facebook.com/zahidhasanmozumder/)
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](https://www.linkedin.com/in/zahid-hasan-mozumder-516a27200/)
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram](https://www.instagram.com/zahidhasanmozumder/)
+[<a href="https://web.facebook.com/zahidhasanmozumder/"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" /></a>][facebook]
+[<a href="https://www.linkedin.com/in/zahid-hasan-mozumder-516a27200/"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>][linkedin]
+[<a href="https://www.instagram.com/zahidhasanmozumder/"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>][instagram]
 
 <br />
 
