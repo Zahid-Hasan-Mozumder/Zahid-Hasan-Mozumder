@@ -1,5 +1,5 @@
 ## Hi, I’m Zahid Hasan Mozumder
-- 👀 I’m interested in **Competitive Proogramming and Artificial Intelligence**
+- 👀 I’m interested in **Competitive Programming and Artificial Intelligence**
 - 🌱 I’m currently learning **University stuffs**
 - 💞️ I’m looking to collaborate on **Artificial Intelligence projects**
 - 📫 How to reach me **jahidhasanmozumder@gmail.com**
