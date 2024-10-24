@@ -1,6 +1,8 @@
+![Profile views](https://komarev.com/ghpvc/?username=Zahid-Hasan-Mozumder&color=blue)
+
 ## Hi, I’m Zahid Hasan Mozumder
 - 👀 I’m interested in **Competitive Programming and Artificial Intelligence**
-- 🌱 I’m currently learning **University stuffs**
+- 🌱 I’m currently working with **Web App**
 - 📫 How to reach me **jahidhasanmozumder@gmail.com**
 
 
@@ -14,13 +16,21 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
 <img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="Python" width="26px" src="https://icon.icepanel.io/Technology/svg/Python.svg" />
 <img align="left" alt="Data Structure and Algorithm" width="26px" src="https://w7.pngwing.com/pngs/125/653/png-transparent-algorithms-data-structures-programs-data-structures-and-algorithms-introduction-to-algorithms-others-miscellaneous-angle-computer-science.png" />
-<img align="left" alt="GitHub" width="26px" src="[https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png](https://icon.icepanel.io/Technology/svg/Spring.svg)" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" />
+<img align="left" alt="Bootstrap" width="26px" src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg" />
+<img align="left" alt="React Bootstrap" width="26px" src="https://icon.icepanel.io/Technology/svg/React-Bootstrap.svg" />
+<img align="left" alt="React" width="26px" src="https://icon.icepanel.io/Technology/svg/React.svg" />
+<img align="left" alt="Spring" width="26px" src="https://icon.icepanel.io/Technology/svg/Spring.svg" />
+<img align="left" alt="Docker" width="26px" src="https://icon.icepanel.io/Technology/svg/Docker.svg" />
+<img align="left" alt="Kubernetes" width="26px" src="https://icon.icepanel.io/Technology/svg/Kubernetes.svg" />
+<img align="left" alt="AWS" width="26px" src="https://icon.icepanel.io/Technology/svg/AWS.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/aca0b3b69ca680013b925338b0cc428190aa42dc/topics/cli/cli.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
