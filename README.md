@@ -1,5 +1,3 @@
-![Profile views](https://komarev.com/ghpvc/?username=Zahid-Hasan-Mozumder&color=blue)
-
 ## Hi, I’m Zahid Hasan Mozumder
 - 👀 I’m interested in **Competitive Programming and Artificial Intelligence**
 - 🌱 I’m currently working with **Web Applications**
