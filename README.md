@@ -2,7 +2,7 @@
 
 ## Hi, I’m Zahid Hasan Mozumder
 - 👀 I’m interested in **Competitive Programming and Artificial Intelligence**
-- 🌱 I’m currently working with **Web App**
+- 🌱 I’m currently working with **Web Applications**
 - 📫 How to reach me **jahidhasanmozumder@gmail.com**
 
 
@@ -24,6 +24,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" />
 <img align="left" alt="Bootstrap" width="26px" src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg" />
 <img align="left" alt="React Bootstrap" width="26px" src="https://icon.icepanel.io/Technology/svg/React-Bootstrap.svg" />
 <img align="left" alt="React" width="26px" src="https://icon.icepanel.io/Technology/svg/React.svg" />
