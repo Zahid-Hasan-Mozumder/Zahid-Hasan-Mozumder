@@ -4,7 +4,7 @@
 - 📫 How to reach me **jahidhasanmozumder@gmail.com**
 
 
-<div style="width: 100%; margin-top: 20px; font-weight: bold;">Connect with me:</div>
+## Connect with me:
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
     <a href="https://web.facebook.com/zahidhasanmozumder/"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" /></a>
     <a href="https://www.linkedin.com/in/zahid-hasan-mozumder-516a27200/"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
@@ -12,7 +12,7 @@
 </div>
 <br />
 
-<div style="width: 100%; margin-top: 20px; font-weight: bold;">Languages and Tools:</div>
+## Languages and Tools:
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
     <img alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
     <img alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
@@ -36,11 +36,16 @@
 </div>
 <br />
 
-<div style="width: 100%; margin-top: 20px; font-weight: bold;">Contest Profiles:</div>
+## Contest Profiles:
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
     <a href="https://www.hackerrank.com/madCoder51"><img alt="HackerRank" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/240px-HackerRank_Icon-1000px.png" /></a>
     <a href="https://www.codechef.com/users/madcoder51"><img alt="Codechef" width="26px" src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" /></a>
     <a href="https://codeforces.com/profile/negativeDelta"><img alt="Codeforces" width="26px" src="https://play-lh.googleusercontent.com/zaldniLc2XTBhNlCDR4hcD5bcRYHZ56_lO0yA2Qu-cADShy1_HDWrICSvv0EPTX79WY=rw" /></a>
+    <a href="https://atcoder.jp/users/zahid_hm"><img alt="atCoder" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZOKfQMWgupGFJsJbrlHLt3oea4hmgg6Qq-g&s" /></a>
+    <a href="https://vjudge.net/user/zahid_hm"><img alt="vjudge" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJLxdP0idphxUvaRU_FPnvjeUbUC1vMHDJ2g&s" /></a>
+    <a href="https://lightoj.com/user/zahid_hm"><img alt="lightoj" width="26px" src="https://lightoj.com/loj-og-image.png" /></a>
+    <a href="https://cses.fi/user/129982"><img alt="cses" width="26px" src="https://cses.fi/logo.png?1" /></a>
+    <a href="https://toph.co/u/zahid_hm"><img alt="toph" width="26px" src="https://static.toph.co/images/logo.png?_=f76bdcf12c6acbf239a6e1b395ce7729b71e6c25" /></a>
 </div>
 
 <!---
